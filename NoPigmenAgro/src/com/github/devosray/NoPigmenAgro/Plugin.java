@@ -1,7 +1,6 @@
 
 package com.github.devosray.NoPigmenAgro;
 
-import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
 /**
